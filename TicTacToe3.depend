@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1543433066 source:c:\users\miruna\desktop\tictactoe3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
